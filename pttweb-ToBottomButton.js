@@ -1,3 +1,16 @@
+// ==UserScript==
+// @name         pttweb.cc-ToBottomButton
+// @version      0.1
+// @description  新增置底按鈕設定
+// @author       flowerway626
+// @match        https://www.pttweb.cc/*
+// @namespace    https://github.com/flowerway626/pttweb-ToBottomButton
+// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @updateURL    https://raw.githubusercontent.com/flowerway626/pttweb-ToBottomButton/master/pttweb-ToBottomButton.js
+// @downloadURL  https://raw.githubusercontent.com/flowerway626/pttweb-ToBottomButton/master/pttweb-ToBottomButton.js
+// @grant        none
+// ==/UserScript==
+
 window.addEventListener("scroll", function() {
   let scorllPercent = window.scrollY / (document.body.scrollHeight - window.innerHeight)
   let focus = document.querySelectorAll(".e7-btn-no-focus");
