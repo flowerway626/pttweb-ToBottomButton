@@ -4,10 +4,10 @@
 // @description  新增置底按鈕設定
 // @author       flowerway626
 // @match        https://www.pttweb.cc/*
-// @namespace    https://github.com/flowerway626/pttweb-ToBottomButton
+// @namespace    https://github.com/flowerway626/pttweb-ToBottomButton/
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-// @updateURL    https://raw.githubusercontent.com/flowerway626/pttweb-ToBottomButton/master/pttweb-ToBottomButton.js
-// @downloadURL  https://raw.githubusercontent.com/flowerway626/pttweb-ToBottomButton/master/pttweb-ToBottomButton.js
+// @updateURL    https://raw.githubusercontent.com/flowerway626/pttweb-ToBottomButton/master/pttweb-ToBottomButton.user.js
+// @downloadURL  https://raw.githubusercontent.com/flowerway626/pttweb-ToBottomButton/master/pttweb-ToBottomButton.user.js
 // @grant        none
 // ==/UserScript==
 
